@@ -25,3 +25,9 @@ It does almost nothing for you. Except allow you to use the following directives
 ```
 
 Thats all.
+
+## Install
+
+```shell
+bower install git://github.com/ericduran/angular-simple-dnd.git
+```
