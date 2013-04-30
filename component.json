@@ -2,7 +2,7 @@
   "name": "angular-simple-dnd",
   "version": "0.0.1",
   "description": "Simple HTML5 Drag and Drop with AngularJS",
-  "main": "simple-dnd.js",
+  "main": "./simple-dnd.js",
   "homepage": "hthttps://github.com/ericduran/angular-simple-dnd",
   "bugs": "https://github.com/ericduran/angular-simple-dnd/issues",
   "author": {
