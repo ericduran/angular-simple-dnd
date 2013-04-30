@@ -1,6 +1,5 @@
-
 /**
- * Angular Simgple Drag and Drop Event.
+ * Angular Simple Drag and Drop Event.
  *
  * @example <div dnd-dragover="blah($event)">
  * @example <div dnd-dragEnd="foo($event)">
